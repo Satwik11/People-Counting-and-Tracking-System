@@ -21,4 +21,10 @@ It composes of two parts
 ## Why use MobileNet in SSD
 Resnet or VGG or alexnet has a large network size and it increases the no of computation whereas in Mobilenet there is a simple architecture consisting of a 3×3 depthwise convolution followed by a 1×1 pointwise convolution.
 
+## How to execute files :
+ step1 : First execute trackableobject.py file then execute centroid tracker.py file these two files are present in packages folder
+ step 2 : Then execute people_counter.py after that system will start all the analysis on video and do all tracking and detection on people an if you want to see that video  on the web use cmd and type webstreaming.py.py you'll be able to see video on a nice web page 
+
+
+
 
