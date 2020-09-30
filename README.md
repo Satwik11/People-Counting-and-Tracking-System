@@ -24,7 +24,7 @@ Resnet or VGG or alexnet has a large network size and it increases the no of com
 ## How to execute files :
 Firstly install all the libraries written on requirments.txt
  #### step1 : Execute trackableobject.py file then execute centroid tracker.py file these two files are present in packages folder
-#### step 2 : Then execute people_counter.py after that system will start all the analysis on video and do all tracking and detection work on people an if you want to see that video on the web use cmd and type webstreaming.py.py you'll be able to see video on a nice web page 
+#### step 2 : Then execute people_counter.py after that system will start all the analysis on video and do all tracking and detection work on video an if you want to see that video on the web use cmd and type webstreaming.py.py you'll be able to see video on a nice web page 
 
 
 
